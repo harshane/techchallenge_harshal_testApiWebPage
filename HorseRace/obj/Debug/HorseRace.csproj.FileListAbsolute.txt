@@ -143,3 +143,4 @@ D:\Assessments\WilliamHill\Race\HorseRace\bin\Autofac.Integration.Mvc.xml
 D:\Assessments\WilliamHill\Race\HorseRace\bin\AutoMapper.xml
 D:\Assessments\WilliamHill\Race\HorseRace\obj\Debug\HorseRace.dll
 D:\Assessments\WilliamHill\Race\HorseRace\obj\Debug\HorseRace.pdb
+D:\Assessments\WilliamHill\Race\HorseRace\obj\Debug\HorseRace.csprojResolveAssemblyReference.cache
