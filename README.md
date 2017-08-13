@@ -4,4 +4,7 @@
 
 ## Dependecies
 	Keep the CustomerBet Api running as this application uses Api from CustomerBetApi
+
+## How much money we need to pay out if this horse wins (Races are tote races so calculate using the odds from the horse)
+	# This part is not taken care in the implementation as did not build customer centric Race page, and the Calculation required customer bet amount.
 	
